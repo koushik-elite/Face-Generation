@@ -49,7 +49,7 @@ conda install git
 
 1. Clone the repository, and navigate to the downloaded folder. This may take a minute or two to clone due to the included image data.
 ```
-git clone https://github.com/koushik-elite/TV-Script-Generation.git
+git clone https://github.com/koushik-elite/Face-Generation.git
 cd TV-Script-Generation
 ```
 
@@ -70,7 +70,7 @@ cd TV-Script-Generation
 pip install -r requirements.txt
 ```
 
-4. That's it!, Now run the project using following command, check you default browser and open dlnd_tv_script_generation.ipynb file
+4. That's it!, Now run the project using following command, check you default browser and open dlnd_face_generation.ipynb file
 
 ```
 jupyter notebook
